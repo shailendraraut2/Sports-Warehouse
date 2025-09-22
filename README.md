@@ -1,1 +1,1 @@
-git commit -m "Initial upload of version 1 of the shopping portal with login feature"
+git commit -m "Initial commit of version 1.0 of the shopping portal website. Includes basic structure and login feature."
